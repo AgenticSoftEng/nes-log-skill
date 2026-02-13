@@ -9,6 +9,7 @@ Find and retreive information requested by the user in the log provided
 ## Instructions
 - Read the log
 - Based on the users request follow the 'Cookbook' to retreive the information the user asked for
+- Return ONLY the requested data, as specified in the 'Cookbook'
 
 ## Workflow
 1. Understand the users request
